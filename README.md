@@ -6,7 +6,7 @@
 
 ### "I think out loud when I'm working on something. It help me to organize my work." 
 
-
+|  |  |  
 | ------ | ----- |  
 | Birthday: | 17/02 |  
 | Favorite color: | Navy Blue |  
