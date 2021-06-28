@@ -34,4 +34,4 @@ During my baccalaureate, some of my friends made me a funny song because I broke
 #### TL;DR
 My friends made me a song after I've broken a chair in an audience.
 
-<<[previous](https://github.com/Naim350Z/markdown-challenge.git) || Stéphanie ANTIGNAC ||(https://github.com/Thibaut3005/Markdown-challenge-.git) [next]>>
+<<[previous](https://github.com/Naim350Z/markdown-challenge.git) || Stéphanie ANTIGNAC ||[next](https://github.com/Thibaut3005/Markdown-challenge-.git) >>
