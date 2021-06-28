@@ -2,7 +2,7 @@
 ===================
 > *Curiosity is never a bad thing*
 
-![Alt text](https://github.com/StephanieAn/markdown-challenge/blob/master/photo%20pro.jpg)
+![Alt text](https://www.facebook.com/photo.php?fbid=10226161233316863&set=pb.1219629648.-2207520000..&type=3)
 
 ### "I think out loud when I'm working on something. It help me to organize my work." 
 
