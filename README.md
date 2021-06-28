@@ -2,7 +2,7 @@
 ===================
 > *Curiosity is never a bad thing*
 
-![Alt text](/Documents/WebDev/Markdown/markdown-challenge/photo.jpg)
+![Alt text](https://github.com/StephanieAn/markdown-challenge/blob/master/photo%20pro.jpg)
 
 ### "I think out loud when I'm working on something. It help me to organize my work." 
 
@@ -34,4 +34,4 @@ During my baccalaureate, some of my friends made me a funny song because I broke
 #### TL;DR
 My friends made me a song after I've broken a chair in an audience.
 
-~~[previous](https://discord.com/channels/@me/859055374048821248/859055424933986345) || Stéphanie ANTIGNAC ||(https://github.com/Thibaut3005/Markdown-challenge-.git) [next]~~
+<<[previous](https://github.com/Naim350Z/markdown-challenge.git) || Stéphanie ANTIGNAC ||(https://github.com/Thibaut3005/Markdown-challenge-.git) [next]>>
