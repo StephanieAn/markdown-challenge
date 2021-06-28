@@ -11,7 +11,7 @@
 | Birthday: | 17/02 |  
 | Favorite color: | Navy Blue |  
 | Favorite food: | Chinese food |  
-| Pinneapple on pizza: | :heavy_check_mark:|  
+| Pinneapple on pizza: | [x] Yes  [ ] No|  
 
 Hobbies
 ---------
