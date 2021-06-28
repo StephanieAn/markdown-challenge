@@ -2,14 +2,15 @@
 ===================
 > *Curiosity is never a bad thing*
 
-![Alt text]("photo pro.jpg")
+![Alt text](relative/path/to/"photo pro.jpg")
 
 ### "I think out loud when I'm working on something. It help me to organize my work." 
 
-|Birthday:| 17/02 |
-|Favorite color:| Navy Blue |
-|Favorite food:| Chinese food |
-|Pinneapple on pizza:| :heavy_check_mark:|
+|----------- | ----------|
+| Birthday: | 17/02 |
+| Favorite color: | Navy Blue |
+| Favorite food: | Chinese food |
+| Pinneapple on pizza: | :heavy_check_mark:|
 
 Hobbies
 ---------
